@@ -31,6 +31,15 @@ revolve around the sun and the moon revolves around the earth. To do this use th
 rotate procedure.
 ```
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Simulator_solar_system
+```
+
+- Install CodeBlocks (information at the bottom of this page)
+
 # GrAPiC 
 
 ## Starting
