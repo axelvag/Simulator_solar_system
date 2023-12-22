@@ -6,6 +6,10 @@ Mercury, Earth and Moon, etc. Each planet is represented by a complex number:
 ![image](image/Complex1.jpg)
 ![image](image/Complex2.jpg)
 
+The first screenshot represents the solar system when the program is launched and the second approximately 5 minutes later.
+
+The classes are C++ and the graphical display is with the GraPic library.
+
 # Subject
 
 ```
