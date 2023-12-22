@@ -1,5 +1,8 @@
 # Simulator_solar_system
 
+We will display an imaginary solar system with the desired number of planets and them asteroid in addition to the Sun:
+Mercury, Earth and Moon, etc. Each planet is represented by a complex number:
+
 ![image](image/Complex1.jpg)
 ![image](image/Complex2.jpg)
 
