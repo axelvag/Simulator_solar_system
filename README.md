@@ -3,6 +3,27 @@
 ![image](image/Complex1.jpg)
 ![image](image/Complex2.jpg)
 
+# Subject
+
+```
+We will display an imaginary solar system with the desired number of planets in addition to the Sun:
+Mercury, Earth and Moon, etc. Each planet is represented by a complex number
+representing his position.
+
+Define the SolarSystem structure and write the following 3 functions.
+init procedure (ss: SolarSystem result data)
+which initializes the position of the sun in the center of the window and the 3 planets aligned
+horizontally.
+
+Procedure draw(ss: SoloarSystem data)
+which displays the 4 stars in 4 different colors.
+
+Update procedure (ss: SolarSystem result data)
+which updates the position of the 3 planets so that mercury, earth and moon
+revolve around the sun and the moon revolves around the earth. To do this use the
+rotate procedure.
+```
+
 # GrAPiC 
 
 ## Starting
